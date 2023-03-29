@@ -1,0 +1,12 @@
+.nav-sidebar>.nav-item .nav-icon {
+    margin-left: 0;
+    margin-right: 0;
+    width: auto;
+}
+.nav-sidebar .nav-item>.nav-link {
+    margin-bottom: 15px;
+}
+.main-sidebar a img {
+    width: 30px !important;
+    filter: brightness(13.5);
+}
